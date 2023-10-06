@@ -1,0 +1,5 @@
+PassiveExperience,amountOfExperience * (1 + ((evaluatingPartyMemberCount - 1) / 15)),
+ActiveExperience,amountOfExperience * (1 + ((evaluatingPartyMemberCount - 1) / 15)),
+PassiveGold,amountOfGold * (1 / evaluatingPartyMemberCount),
+templateName,database\Templates\BonusSharing.tpl,
+ActiveGold,amountOfGold * (1 / evaluatingPartyMemberCount),
