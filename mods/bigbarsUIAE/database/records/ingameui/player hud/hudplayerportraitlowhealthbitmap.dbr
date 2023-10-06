@@ -1,0 +1,5 @@
+FileDescription,BitmapSingle,
+bitmapPositionY,-52,
+templateName,database\Templates\InGameUI\BitmapSingle.tpl,
+bitmapPositionX,-60,
+bitmapName,Textures\hudportraitlowhealthindicator.tex,
