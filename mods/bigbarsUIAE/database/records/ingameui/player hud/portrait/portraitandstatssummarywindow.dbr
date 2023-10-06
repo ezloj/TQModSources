@@ -1,0 +1,8 @@
+windowDefaultY,30,
+windowDefaultExtentY,79,
+windowScreenAlignmentX,Center,
+windowScreenAlignmentY,Bottom,
+windowDefaultX,-83,
+windowDefaultExtentX,304,
+FileDescription,HudPortraitAndStatsSummary,
+templateName,database\Templates\InGameUI\HudPortraitAndStatsSummary.tpl,

@@ -1,0 +1,7 @@
+bitmapFullName,Textures\healthfulledit2.tex,
+FileDescription,BarGraph,
+bitmapEmptyName,Textures\healthempty01edit.tex,
+bitmapPositionY,3,
+templateName,database\Templates\InGameUI\BarGraph.tpl,
+bitmapPositionX,-31,
+FontStyle,Records\XPack\UI\TextStyles\BarGraph.dbr,
